@@ -1,0 +1,6 @@
+@FruitAPI_HostAddress = http:/localhost:5096
+
+GET {{FruitAPI_HostAddress}}/Fruits/
+Accept: application/json
+
+###
